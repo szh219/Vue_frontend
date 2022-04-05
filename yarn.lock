@@ -6707,7 +6707,7 @@
     "sane" "^4.0.3"
     "walker" "^1.0.7"
   optionalDependencies:
-    "fsevents" "^1.2.7"
+    
 
 "jest-jasmine2@^24.9.0":
   "integrity" "sha512-Cq7vkAgaYKp+PsX+2/JbTarrk0DmNhsEtqBXNwUHkdlbrTBLtMJINADf2mf5FkowNsq8evbPc07/qFO0AdKTzw=="
